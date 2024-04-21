@@ -5,7 +5,7 @@ This is a covid 19 data exploratory and visualization project. Using SQL, divded
 
 AdvertureWorks Report
 
-This report offers a comprehensive view into the overall performance of AdventureWorks, a global manufacturer specializing in cycling gear and accessories. The project is a component of the Business Intelligence (2023) course for Microsoft PowerBI Desktop offered by Maven Analytics on the Udemy platform. During the creation of this dashboard, I followed the course guidelines while also incorporating a few of my own innovative modifications.
+This report offers a comprehensive view into the overall performance of AdventureWorks, a global manufacturer specializing in cycling gear and accessories.
 
 The analysis consisted of several key stages:
 
